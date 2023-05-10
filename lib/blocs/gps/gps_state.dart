@@ -13,7 +13,6 @@ class GpsState extends Equatable {
 
   @override
   String toString() {
-    // TODO: implement toString
     return "{ isGPS: $isGPS And isPermission: $isPermission}";
   }
 
